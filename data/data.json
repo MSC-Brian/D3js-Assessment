@@ -1,0 +1,13 @@
+[
+  {"year": 2010, "points": 86, "wins": 27, "draws": 5, "losses": 6, "other": {"finished": "1st", "coach": "Ancelotti", "trophy": "Premiership Champions"}},
+  {"year": 2011, "points": 71, "wins": 21, "draws": 8, "losses": 9, "other": {"finished": "2nd", "coach": "Ancelotti"}},
+  {"year": 2012, "points": 64, "wins": 18, "draws": 10, "losses": 10, "other": {"finished": "6th" , "coach": "Di Matteo", "trophy": "Champions League Winners"}},
+  {"year": 2013, "points": 75, "wins": 22, "draws": 9, "losses": 7, "other": {"finished": "3rd", "coach": "Benitez", "trophy": "Europa League Winners"}},
+  {"year": 2014, "points": 82, "wins": 25, "draws": 7, "losses": 6, "other": {"finished": "3rd", "coach": "Mourinho"}},
+  {"year": 2015, "points": 87, "wins": 26, "draws": 9, "losses": 3, "other": {"finished": "1st", "coach": "Mourinho", "trophy": "Premiership Champions"}},
+  {"year": 2016, "points": 50, "wins": 12, "draws": 14, "losses": 12, "other": {"finished": "10th", "coach": "Hiddink"}},
+  {"year": 2017, "points": 93, "wins": 30, "draws": 3, "losses": 5, "other": {"finished": "1st", "coach": "Conte", "trophy": "Premiership Champions"}},
+  {"year": 2018, "points": 70, "wins": 21, "draws": 7, "losses": 10, "other": {"finished": "5th", "coach": "Conte", "trophy": "FA Cup"}},
+  {"year": 2019, "points": 72, "wins": 21, "draws": 9, "losses": 8, "other": {"finished": "3rd", "coach": "Sarri", "trophy": "Europa League Winners"}},
+  {"year": 2020, "points": 5, "wins": 1, "draws": 2, "losses": 1, "other": {"finished": "N/A", "coach": "Lampard"}}
+]
