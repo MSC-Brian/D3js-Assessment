@@ -22,17 +22,17 @@ The two PNG files provided in this repo are examples of charts you could design.
 **Example 2**
 ![Example 2](Assessment_ss_2.PNG)
 
-*In this repo, we provide you with the following files:*
-1. index.html
-1. Assessment_ss_1.PNG
-1. Assessment_ss_2.PNG
-1. static
-  1. css
-    1. style.css
-  1. js
-    1. app.js (empty)
-    1. d3.min.js
-    1. polyfill.js
+*In this repo, we provide you with the following files/folders:*
+* index.html
+* Assessment_ss_1.PNG
+* Assessment_ss_2.PNG
+* static
+  * css
+    * style.css
+  * js
+    * app.js (empty)
+    * d3.min.js
+    * polyfill.js
 
 When you download the repo, the files are already structured to run smoothly using a Python localhost Server (python -m http.server OR python -m SimpleHTTPServer). If you are more comfortable running on another local server (like node.js) feel free to do so.
 
