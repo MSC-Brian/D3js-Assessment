@@ -16,6 +16,12 @@ It is your task to turn this information into a chart. It could be a simple bar 
 
 The two PNG files provided in this repo are examples of charts you could design. Your solution does not have to look like either example, but we wanted to demonstrate some of the possibilities. Though you can't see them in the screenshots, these charts make use of hover, and mouseover/mouseout effects as well as tooltips.
 
+**Example 1**
+![Example 1](Assessment_ss_1.PNG)
+
+**Example 2**
+![Example 2](Assessment_ss_2.PNG)
+
 *In this repo, we provide you with the following files:*
 1. index.html
 1. Assessment_ss_1.PNG
